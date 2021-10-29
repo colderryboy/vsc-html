@@ -6,8 +6,9 @@
   "displayName": "VSC HTML",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Colderry/vsc-html.git"
+    "url": "https://github.com/Colderry/vsc-html"
   },
+  "icon": "assets/logo.png",
   "license": "MIT",
   "categories": [
     "Snippets"
