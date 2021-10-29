@@ -1,0 +1,26 @@
+{
+  "name": "vsc-html",
+  "version": "0.0.1",
+  "description": "Code snippets for HTML files",
+  "publisher": "Colderry",
+  "displayName": "VSC HTML",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colderry/vsc-html.git"
+  },
+  "license": "MIT",
+  "categories": [
+    "Snippets"
+  ],
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/html.json"
+      }
+    ]
+  }
+}

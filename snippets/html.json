@@ -1,0 +1,35 @@
+{
+    "HTML Boilerplate": {
+        "prefix": "plate",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"en\">",
+            "<head>\n",
+            "\t<meta charset=\"UTF-8\">",
+            "\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+            "\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n",
+            "\t<meta name=\"title\" content=\"$TM_FILENAME_BASE\">",
+            "\t<meta name=\"description\" content=\"Document\">",
+            "\t<meta name=\"theme-color\" content=\"#4285f4\">\n",
+            "\t<title>$TM_FILENAME_BASE</title>\n",
+            "\t<link rel=\"stylesheet\" href=\"\">",
+            "\t<link rel=\"stylesheet\" href=\"\">\n",
+            "</head>",
+            "<body>",
+            "\n\t<!-- Happy Coding :) -->\n",
+            "</body>",
+            "</html>"
+        ],
+        "description": "Creates a HTML Boilerplate"
+    },
+    "Unordered&List": {
+        "prefix": "uli",
+        "body": "<ul>\n\t<li></li>\n\t<li></li>\n\t<li></li>\n</ul>",
+        "description": "Creates a ul tag and 3 li tags inside it"
+    },
+    "Unordered&ListAnchor": {
+        "prefix": "ulia",
+        "body": "<ul>\n\t<li><a href=\"\"></a></li>\n\t<li><a href=\"\"></a></li>\n\t<li><a href=\"\"></a></li>\n</ul>",
+        "description": "Creates a ul tag and 3 li tags inside it with anchors"
+    }
+}
